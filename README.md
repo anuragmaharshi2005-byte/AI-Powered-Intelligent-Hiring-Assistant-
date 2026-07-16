@@ -1,4 +1,4 @@
-# AI-Powered Resume Screening & Candidate Feedback System
+# AI-Powered Intelligent Hiring System
 
 An end-to-end project that evaluates a candidate's resume against a job
 description, produces a semantic match score, explains skill gaps, and
