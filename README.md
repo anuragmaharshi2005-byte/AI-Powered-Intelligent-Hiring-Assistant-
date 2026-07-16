@@ -134,10 +134,10 @@ across two differently-worded documents, which TF-IDF alone can't do well.
 ## Screenshots
 
 ![alt text](<images/Home page.png>)
-![alt text](<Match Score.png>)
-![alt text](<Skill Comparison.png>)
-![alt text](<Personalized Feedback.png>)
-![alt text](<Personalized Chatbot.png>)
+![alt text](<images/Match Score.png>)
+![alt text](<images/Skill Comparison.png>)
+![alt text](<images/Personalized Feedback.png>)
+![alt text](<images/Personalized Chatbot.png>)
 
 ## Future Improvements
 
