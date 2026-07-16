@@ -133,7 +133,7 @@ across two differently-worded documents, which TF-IDF alone can't do well.
 
 ## Screenshots
 
-![alt text](<Home page.png>)
+![alt text](images/Home page.png)
 ![alt text](<Match Score.png>)
 ![alt text](<Skill Comparison.png>)
 ![alt text](<Personalized Feedback.png>)
