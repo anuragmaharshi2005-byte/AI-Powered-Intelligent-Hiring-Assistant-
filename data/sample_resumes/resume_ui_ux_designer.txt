@@ -1,0 +1,30 @@
+Rohan Mehta
+Pune, India | rohan.mehta@example.com | +91-90000-11111
+
+SUMMARY
+UI/UX designer with 3 years of experience designing web and mobile interfaces
+for early-stage startups, from wireframes through to high-fidelity prototypes.
+
+SKILLS
+Figma, Adobe XD, Sketch, Illustrator, Photoshop, Prototyping, Wireframing,
+User Research, InVision
+
+EXPERIENCE
+Product Designer, Loopwork Studio (2022 - Present)
+- Designed end-to-end user flows and high-fidelity mockups in Figma for three
+  B2B SaaS products, working directly with founders and engineers.
+- Ran 15+ user interviews and usability tests to validate onboarding flows,
+  reducing signup drop-off by an estimated 20%.
+- Built and maintained a shared component design system in Figma, adopted by
+  a team of 4 designers.
+
+UI/UX Intern, Loopwork Studio (2021 - 2022)
+- Created wireframes and clickable prototypes in Adobe XD for a mobile
+  fitness app, iterating based on weekly design reviews.
+
+EDUCATION
+B.Des in Communication Design, Symbiosis Institute, Pune (2018-2022)
+
+PROJECTS
+Redesign of a local library's booking app - full case study covering research,
+wireframes, prototype, and a Figma component library, published on Behance.

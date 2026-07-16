@@ -1,0 +1,29 @@
+Job Title: Backend Developer
+
+About the Role
+We're looking for a Backend Developer to join our platform team and help
+build and scale the services powering our core product.
+
+Responsibilities
+- Design, build, and maintain REST APIs used by our web and mobile clients.
+- Write clean, well-tested Python code (Flask or Django).
+- Work with PostgreSQL for data modeling, query optimization, and migrations.
+- Containerize services with Docker and support deployments to AWS.
+- Collaborate with frontend engineers and product managers on new features.
+
+Required Skills
+- Python, SQL, Git
+- Experience with REST API design
+- PostgreSQL
+- Docker
+- AWS
+- Familiarity with microservices architecture
+
+Nice to Have
+- Kubernetes
+- Redis
+- CI/CD pipeline experience
+
+Qualifications
+- 2+ years of backend development experience.
+- Bachelor's degree in Computer Science or a related field (or equivalent experience).

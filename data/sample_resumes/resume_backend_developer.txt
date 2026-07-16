@@ -1,0 +1,33 @@
+Aditi Sharma
+Bengaluru, India | aditi.sharma@example.com | +91-90000-00000
+
+SUMMARY
+Backend-focused software developer with 2.5 years of experience building and
+maintaining REST APIs and data pipelines for a mid-size fintech product.
+Comfortable working across the stack but strongest in Python and SQL.
+
+SKILLS
+Python, SQL, Git, Flask, Django, PostgreSQL, REST API, Docker, Linux, Redis
+
+EXPERIENCE
+Software Engineer, PayEase Technologies (Jul 2023 - Present)
+- Built and maintained REST APIs in Flask serving ~40k requests/day for the
+  payments reconciliation service.
+- Migrated a batch reporting job from raw SQL scripts to a scheduled Python
+  pipeline, cutting report generation time from 45 minutes to 6 minutes.
+- Wrote unit and integration tests (pytest) for all new endpoints; raised
+  test coverage on the payments module from 51% to 82%.
+- Used Docker to containerize the service for local development and staging.
+
+Junior Developer, PayEase Technologies (Jan 2023 - Jun 2023)
+- Fixed bugs and added small features to an internal Django admin tool used
+  by the operations team.
+- Wrote SQL queries against a PostgreSQL database to support ad-hoc reporting
+  requests from finance.
+
+EDUCATION
+B.Tech in Computer Science, Poornima College of Engineering, Jaipur (2019-2023)
+
+PROJECTS
+Expense Tracker API - A small Flask + PostgreSQL REST API for tracking personal
+expenses, with JWT-based auth and Dockerized deployment. Deployed for personal use.

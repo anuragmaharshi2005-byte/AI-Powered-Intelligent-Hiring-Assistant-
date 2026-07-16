@@ -1,0 +1,29 @@
+Job Title: Data Scientist
+
+About the Role
+We are hiring a Data Scientist to help build predictive models and generate
+insights that guide product and business decisions.
+
+Responsibilities
+- Analyze large datasets to identify trends and opportunities.
+- Build and evaluate machine learning models (classification, regression,
+  clustering) using scikit-learn, TensorFlow, or PyTorch.
+- Write production-quality Python code and SQL queries.
+- Present findings clearly to both technical and non-technical stakeholders.
+- Work with data engineers to productionize models using tools like Airflow
+  and MLflow.
+
+Required Skills
+- Python, SQL
+- Scikit-learn, TensorFlow or PyTorch
+- Strong statistics and data analysis fundamentals
+- Experience with Git and version control
+
+Nice to Have
+- Airflow
+- MLflow
+- AWS or GCP experience
+
+Qualifications
+- Bachelor's or Master's degree in Computer Science, Statistics, or a related field.
+- 1-3 years of experience in a data science or ML role (internships count).
